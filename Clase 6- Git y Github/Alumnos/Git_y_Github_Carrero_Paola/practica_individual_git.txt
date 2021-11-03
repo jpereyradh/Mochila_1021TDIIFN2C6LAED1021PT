@@ -1,0 +1,3 @@
+- El sistema de control de versiones (Git) fue creado por Linus Torvalds en el 2005 para ser utilizado en el desarrollo del kernel de Linux.
+- Actualmente Github pertenece a Microsoft apoyando ahora al Open Sources siendo Github el punto de encuentro principal entre desarolladores para alojar codigo, compartirlo, permitir  estudiar tendencias de la industria de software
+- Github siendo tan popular ya hay varios softwares de GUIs que prestan el servicio de ver la gestion Git visualmente como Fork, Tower,	Github Desktop. 

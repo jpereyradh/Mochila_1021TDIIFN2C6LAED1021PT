@@ -16,3 +16,5 @@ Nuestro padre nos envió los siguientes procesadores:
 ● Amd a8 9600 Matilda
 ● intel i3 3230 Marcelo
 
+ 
+

@@ -1,0 +1,66 @@
+﻿1. Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso número de proyectos de software dependen de Git para el control de versiones, incluidos proyectos comerciales y de código abierto.
+
+
+Una de las mayores ventajas de Git son sus capacidades de ramificación. A diferencia de los sistemas de control de versiones centralizados, las ramas de Git son baratas y fáciles de fusionar. Esto facilita el flujo de trabajo de la rama de funciones, popular entre muchos usuarios de Git.
+
+
+2. El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+
+
+3. Si bien uno puede utilizar GitHub web o una versión de escritorio de la misma, hace falta disponer de una terminal (CMD) para poder interactuar con GitHub.
+
+
+________________
+
+
+________________
+
+
+CREAR
+	MOSTRAR
+	CAMBIAR/ACTUALIZAR
+	RAMA
+	COMMIT
+	PUBLICAR
+	init
+Crear un nuevo repositorio local 
+	status
+Cambios en archivos en carpeta local
+	add .
+Actualiza los cambios de un archivo en la carpeta local
+	checkout
+Cambio de repositorio
+	commit -m
+Publica los cambios en el repositorio junto con un mensaje
+	push
+Actualiza los cambios de un archivo en el repositorio
+	clone
+Clonar un repositorio existente 
+	log
+Historial de cambios
+	pull
+Descarga los últimos cambios del repositorio original y los fusiona
+	branch <nombre>
+Crear rama
+
+
+	
+
+	commit -a
+	
+
+	branch
+	fetch
+Descarga los últimos cambios del repositorio original y no los fusiona
+	merge
+Fusiona ramas
+	
+
+	
+
+	
+
+	diff
+Cambios en archivos trackeados
+	push
+Actualiza los cambios de un archivo en el repositorio

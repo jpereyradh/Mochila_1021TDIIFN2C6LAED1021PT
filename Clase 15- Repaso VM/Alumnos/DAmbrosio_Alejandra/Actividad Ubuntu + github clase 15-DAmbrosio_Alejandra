@@ -1,0 +1,30 @@
+Clase 15 - Consigna
+
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
+
+- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en 
+otros no?
+Porque la computadora no entiende los lenguajes de programación directamente, sino que manejan 
+un lenguaje distinto: el lenguaje de máquina, el cual está desarrollado con código máquina. Para 
+llevar a cabo traducción del lenguaje de programación a código máquina se utilizan "traductores", 
+específicamente compiladores e interpretes, acorde al tipo de lenguaje de programación y que 
+puede no estar disponibles para todos los sistemas operativos.
+
+- ¿Qué tipo de máquina virtual es Virtual Box?
+Es una máquina virtual de sistema, encapsula un sistema operativo.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? 
+¿Por qué?
+No, porque cada máquina virtual es un entorno aislado y encapsulado, esto implica que todo lo que 
+pase en una VM quedé allí y no interfiera con las demás instancias.
+
+- Subir este archivo a la mochila del viajero desde la máquina virtual.
+
+
+Opcional 
+
+* Clonar la mochila del viajero personal dentro de la máquina virtual y subir el archivo de 
+ejercitación desde la misma.
+
+Para crear el TXT debemos usar el comando touch y luego modificarlo usando GNU Nano.
+ 

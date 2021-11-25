@@ -6,4 +6,4 @@
  ya sea en las instalaciones o no.                              
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
     No, porque cada máquina virtual funciona de forma independiente,
- uno de sus usos es utilizarlas como pruebas para distintos malwares, sin afectar a otras máquinas o al sistema host.
+ uno de sus usos es utilizarlas como pruebas para distintos malwares, sin afectar a otras máquinas o al sistema host.cd

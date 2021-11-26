@@ -1,0 +1,3 @@
+1-Diferentes lenguajes de programaci—n utilizan diferentes recursos de los sistemas operativos, por eso no todos puede ser utilizados en los mismos SO.
+2-Virtual Box es una maquina virtual de sistema.
+3-Si una de varias maquinas virtuales se rompe, no afectar’a a las dem‡s, ya que se encuentran encapsuladas y son independientes una de otra.

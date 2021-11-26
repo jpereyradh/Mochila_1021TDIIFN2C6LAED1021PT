@@ -1,0 +1,24 @@
+1- Porque un lenguaje de programación solo puede utilizarse en algunos
+sistemas operativos y en otros no?
+Porque los lenguajes de programación utilizan recursos de los sistemas operativos
+
+2-ÂQue tipo de máquina virtual es virtual Box?  
+VirtualBox es una máquina virtual de sistema 
+Una máquina virtual (VM) es un entorno virtual que funciona como sistema informático virtual con su propia CPU,
+ memoria, interfaz de red y almacenamiento, pero se crea en un sistema de hardware físico,
+ ya sea en las instalaciones o no.
+
+Una maquinas virtual es, a grandes rasgos, un entorno virtual sobre el cual podemos instalar otros sistemas 
+operativos para usarlos por encima de nuestro sistema operativo principal. Estos entornos virtualizados 
+emulan un hardware apoyándose sobre el hardware real de nuestro PC, y este hardware virtual se comporta 
+como un ordenador físico, con la diferencia de que todo ello se ejecuta dentro de nuestro PC. El sistema 
+operativo de la máquina virtual es simplemente un programa más que se ejecuta en nuestro ordenador.
+
+Por ello, cuando hablamos de máquinas virtuales debemos tener bien claros los dos siguientes conceptos:
+
+Maquina anfitrión o host: nuestro ordenador y sistema operativo principal.
+Maquina invitada, o guest: la máquina virtual como tal, que se ejecuta encima del anfitrión.
+
+3- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? por qué?
+No afecta a las demás ya que son independientes una de otra
+

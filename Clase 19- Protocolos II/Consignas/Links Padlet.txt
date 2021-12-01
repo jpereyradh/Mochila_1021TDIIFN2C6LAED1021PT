@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 Ingresar al siguiente padlet y completar en base a que puertos son correspondientes con que protocolos.
 En esta ocasión deberemos tomar lo que hicimos en la clase 17, y agregar al menos 10 mas. Opcionalmente podremos tomar los protocolos que trabajan en el moddelo TCP/IP 
@@ -16,3 +17,18 @@ Grupo 9:https://padlet.com/PedagogiaDH/um3rob2wqvinjsgt
 Grupo 10:https://padlet.com/PedagogiaDH/ntpyzqx9wrg6kojo
 Grupo 11:https://padlet.com/PedagogiaDH/5xaicopqxmsaiez4
 Grupo 12:https://padlet.com/PedagogiaDH/la6h2a56aym6cnk8
+=======
+En esta ocasión deberemos tomar lo que hicimos en la clase 17, y agregar al menos 10 mas. Opcionalmente podremos tomar los protocolos que trabajan en el moddelo TCP/IP 
+y decir en que capa funcionan.
+
+Grupo 1:https://padlet.com/PedagogiaDH/2g7hdqelzrvgmysi
+Grupo 2:https://padlet.com/PedagogiaDH/xroi4phijar6cedf
+Grupo 3:https://padlet.com/PedagogiaDH/sq5enaypw1ct9mt1
+Grupo 4:https://padlet.com/PedagogiaDH/envu2a9rj4myabn1
+Grupo 5:https://padlet.com/PedagogiaDH/o3f73uzdmn3et2g4
+Grupo 6:https://padlet.com/PedagogiaDH/6rva0g7z0k3mdyxf
+Grupo 7:https://padlet.com/PedagogiaDH/mf4si5xaoca0am2v
+Grupo 8:https://padlet.com/PedagogiaDH/7rkczba61vcrji9x
+Grupo 9:https://padlet.com/PedagogiaDH/wcv2k9tgxba2lw0m
+Grupo 10:https://padlet.com/PedagogiaDH/tcspyh8vf2bkkib5
+>>>>>>> de63e009eee31c5370ba9633d03e1298e792f99a

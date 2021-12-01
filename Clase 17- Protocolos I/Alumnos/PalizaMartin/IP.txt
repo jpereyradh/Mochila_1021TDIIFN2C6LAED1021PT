@@ -1,0 +1,14 @@
+La dirección IP privada es un número único que identifica a un dispositivo conectado en nuestra red interna.
+Tu dirección IP es 186.22.19.67 
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:524:1c61::1001
+   Dirección IPv6 . . . . . . . . . . : 2800:810:524:1c61:8dd5:52ef:6913:5b51
+   Dirección IPv6 temporal. . . . . . : 2800:810:524:1c61:b876:fd83:3a90:84ba
+   Vínculo: dirección IPv6 local. . . : fe80::8dd5:52ef:6913:5b51%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.178
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::b298:2bff:fe7c:e2d0%18
+                                       192.168.0.1

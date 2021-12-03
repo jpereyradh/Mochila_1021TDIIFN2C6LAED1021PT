@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Modificando el archivo
-=======
-modificando el archivo, ojala funcione D:
-
->>>>>>> d0f1066354e63674a0ecc676e2fd1b00a82c9817

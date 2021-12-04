@@ -1,0 +1,12 @@
+Vamos a investigar:
+
+● Descripción del SO: OnWorks Debian online, una asociación de personas que han hecho una causa común para crear un sistema operativo libre. Este sistema operativo se llama Debian. Los sistemas Debian actualmente usan el kernel de Linux. Linux es un software completamente gratuito iniciado por Linus Torvalds y respaldado por miles de programadores en todo el mundo. Por supuesto, lo que la gente quiere es software de aplicación: programas que les ayuden a hacer lo que quieren hacer, desde editar documentos hasta administrar un negocio, jugar juegos y escribir más software. Debian viene con más de 50.000 paquetes (software precompilado que se incluye en un formato agradable para una fácil instalación en su máquina), todo gratis. Es un poco como una torre. En la base está el núcleo. Además de eso, están todas las herramientas básicas. Lo siguiente es todo el software que ejecuta en la computadora. 
+● ¿Es open source o con licencia ? Es un sistema operativo libre.
+● ¿Cuales son los recursos de Hard que tiene la
+MV? Si no se pueden ver, buscar requisitos
+mínimos en internet. los requisitos son Procesador: Pentium 4 a 1 Ghz. RAM: 256 Mb. Disco Duro: 10 Gb.
+● ¿Cómo se accede a la ventana de comandos? Abre una terminal Linux usando Ctrl + Alt + T
+La forma más fácil de abrir una Terminal es usar la combinación de teclas Ctrl + Alt + T. Simplemente tienes que mantener presionadas las tres teclas al mismo tiempo y se abrirá una ventana de la Terminal.
+● ¿Puedo instalar aplicaciones?¿Por que? Oficialmente contiene solo software gratuito, pero el software no libre se puede descargar e instalar desde los repositorios de Debian. Debian incluye programas gratuitos populares como LibreOffice, navegador web Firefox, correo Evolution, quemador de discos K3b, reproductor multimedia VLC, editor de imágenes GIMP y visor de documentos Evince.
+● ¿Hay juegos instalados? Linux es un software completamente gratuito iniciado por Linus Torvalds y respaldado por miles de programadores en todo el mundo. Por supuesto, lo que la gente quiere es software de aplicación: programas que les ayuden a hacer lo que quieren hacer, desde editar documentos hasta administrar un negocio, jugar juegos y escribir más software.
+● Capturar una imagen del file explorer (ejemplo)

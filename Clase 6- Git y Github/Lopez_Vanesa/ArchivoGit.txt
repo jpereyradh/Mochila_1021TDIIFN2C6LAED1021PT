@@ -3,4 +3,4 @@ es un software de control de versiones diseñado por Linus Torvalds, pensando en
 b. ¿A quién pertenece actualmente Github y por qué?
 El 4 de junio de 2018, Microsoft anunció oficialmente la adquisición de GitHub por $ 7,5 mil millones, un acuerdo que se cerró el 26 de octubre de 2018. Según el comunicado, Microsoft consideró a GitHub como la plataforma de desarrollo de software líder en todo el mundo.¿Hay otra forma que no sea la terminal para trabajar con Github?.
  ¿Hay otra forma que no sea la terminal para trabajar con Github?
-conozco la terminal para trabajar con Github.
+Conozco la terminal para trabajar con Github. Aunque también se puede trabajar desde la interfaz gráfica de Github.

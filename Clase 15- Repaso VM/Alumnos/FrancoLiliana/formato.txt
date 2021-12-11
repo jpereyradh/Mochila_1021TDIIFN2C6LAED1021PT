@@ -1,0 +1,13 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+ R// Porque son lenguajes nativos y están creados solo para ciertos sistemas operativos, tales como Kotlin.
+
+2. ¿Qué tipo de máquina virtual es virtualBox?.
+R// Una maquina que virtualiza sistemas operativos
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe,
+ ¿esto afecta a las demás? ¿por qué?
+R// Si una se daña no afecta a las demás porque cada maquina está
+ empaquetada por separado, es como tener computadores diferentes.
+ Es una de las ventajas de una maquina virtual.
+
+4. Subir este archivo a la mochila del viajero.

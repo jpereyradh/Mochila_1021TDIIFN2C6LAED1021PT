@@ -1,0 +1,9 @@
+Nota: https://www.welivesecurity.com/la-es/2021/04/08/vyveva-nuevo-backdoor-grupo-apt-lazarus/
+¿Qué tipo de amenaza es? 
+Es un Troyano 
+¿Cómo comienza y cómo se propaga esta amenaza?  
+A menudo, los troyanos se propagan a través de un archivo infectado adjunto a un correo electrónico o se esconden tras una descarga de juegos, aplicaciones, películas o tarjetas de felicitación gratuitos. Pueden realizar diferentes tareas, pero, en la mayoría de los casos, crean una puerta trasera que permite la administración remota a un usuario no autorizado y es utilizado para el robo de datos personales.
+¿Hay más de una amenaza aplicada?
+Los daños o violaciones de privacidad que puede causar este virus es el uso de la webcam sin permiso, borrar el disco, modificar la agenda de contactos, robo de información (como datos bancarios e información personal), cambiar configuraciones en el sistema operativo, modificar carpetas y archivos, efectuar llamadas y enviar SMS, hasta geolocalizar al usuario por GPS. 
+¿Qué solución o medida recomendarían?
+Para protegerte de los troyanos, lo principal es contar con un antivirus actualizado y un firewall. El antivirus te avisará si has descargado un archivo que incluye un virus troyano y los eliminará en caso de que ya estés infectado.

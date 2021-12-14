@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Clase 15 - Consigna
 
 Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
@@ -26,4 +27,34 @@ Opcional
 * Clonar la mochila del viajero personal dentro de la máquina virtual y subir el archivo de 
 ejercitación desde la misma.
 
+=======
+Clase 15 - Consigna
+
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
+
+- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en 
+otros no?
+Porque la computadora no interpreta los lenguajes de programación directamente ya este se comunica
+con el lenguajepropio de la pc, el cual está desarrollado con código máquina. Para 
+llevar a cabo traducción del lenguaje de programación a código máquina se utilizan "traductores", 
+mas conocidos como compiladores e interpretes; según el tipo de lenguaje de programación este se  
+podrá o no compilar para todos los sistemas operativos. Algunos lenguajes de oroigramacion serán
+mas adecuados para ciertos sistemas operativos
+
+- ¿Qué tipo de máquina virtual es Virtual Box?
+Es una máquina virtual de sistema, y este encapsula un sistema operativo.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? 
+¿Por qué?
+No, cada máquina virtual funciona como un sistema independiete, esto implica que todo lo que 
+pase en una VM queda allí y no interfiere con las demás instancias.
+
+- Subir este archivo a la mochila del viajero desde la máquina virtual.
+
+Opcional 
+
+* Clonar la mochila del viajero personal dentro de la máquina virtual y subir el archivo de 
+ejercitación desde la misma.
+
+>>>>>>> e3abf17b39fd757a945749694a57f6bab0105cda
 Para crear el TXT debemos usar el comando touch y luego modificarlo usando GNU Nano.
